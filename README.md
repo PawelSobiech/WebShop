@@ -5,7 +5,7 @@ Web shop created using Laravel.
 ## Installation
 
 To be able to run the project, you need to download and install the following:
-1. [Xampp](https://www.apachefriends.org/pl/download.html) - Includes PHP language (Apache and PhpMyAdmin).
+1. [Xampp](https://www.apachefriends.org/pl/download.html) - (Apache and PhpMyAdmin).
 2. [Composer](https://getcomposer.org/download/)
 3. [Node.js](https://nodejs.org/en/download/)
 4. Laravel - After installing Composer, run the following command in CMD: 'composer global require laravel/installer'
